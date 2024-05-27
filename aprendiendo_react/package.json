@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "cajero-automatico",
-=======
-  "name": "aprendiendo-react",
->>>>>>> 505de011fd7e52885b283675c5da5d928acf9951
+  "name": "aprendiendo_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,11 +9,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-<<<<<<< HEAD
-    "styled-components": "^6.0.7",
-=======
-    "styled-components": "^6.0.5",
->>>>>>> 505de011fd7e52885b283675c5da5d928acf9951
     "web-vitals": "^2.1.4"
   },
   "scripts": {
